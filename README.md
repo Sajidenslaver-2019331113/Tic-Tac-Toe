@@ -10,6 +10,12 @@ It's played by your computer keypad combinations from 1-9 by defining them as ea
 # The Grid:
 <img src="The grid.png" alt="Diculator" width="300"/>
 
+# First pick:
+<img src="First pick.png" alt="Diculator" width="300"/>
+
+# Winner:
+<img src="Winner.png" alt="Diculator" width="300"/>
+
 
 
 
